@@ -1,0 +1,53 @@
+/* Services Section
+=====================================================================*/
+.services_section {
+    overflow: hidden;
+    /* background-color: #59a3fc; */
+}
+
+.about {
+    margin: 0 auto;
+    padding: 60px 20px;
+}
+
+.about h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about p {
+    margin: 20px;
+    text-align: center;
+}
+
+.welcome_part {
+    margin: 50px auto 80px;
+}
+
+.welcome_icon {
+    background: none repeat scroll 0 0 transparent;
+    border: 2px solid #59a3fc;
+    border-radius: 100%;
+    color: #59a3fc;
+    margin: 0 auto;
+    padding: 35px;
+    text-align: center;
+    width: 140px;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.welcome_part h2 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.welcome_part p {
+    color: #9c9c9c;
+    font-size: 14px;
+    text-align: center;
+}

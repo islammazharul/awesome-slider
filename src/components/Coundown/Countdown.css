@@ -1,0 +1,45 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.time {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+
+
+}
+
+.dimension {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* .time-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+
+    width: 190px;
+    height: 190px;
+    border-radius: 100%;
+    text-align: center;
+
+} */
+
+@media only screen and (max-width: 768px) {
+    .App {
+        display: flex;
+        flex-direction: column;
+    }
+}
